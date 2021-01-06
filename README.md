@@ -32,4 +32,4 @@ soffchen: https://github.com/soffchen/NanoPi-R2S
 * [yangliu/NanoPi-R2S](https://github.com/yangliu/NanoPi-R2S)
 * [maxming2333/NanoPi-R2S](https://github.com/maxming2333/NanoPi-R2S)
 * [songchenwen/nanopi-r2s](https://github.com/songchenwen/nanopi-r2s)
-* [fanck0605/nanopi_r2s](https://github.com/fanck0605/nanopi_r2s)
+* [fanck0605/nanopi_r2s](https://github.com/fanck0605/nanopi_r2s) 
